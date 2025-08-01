@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![MovieMate Logo](<img width="528" height="169" alt="image" src="https://github.com/user-attachments/assets/12b4bfac-8274-48bc-b28c-c1a4c6928c55"/>
-)
+<img width="528" height="169" alt="Screenshot 2025-08-01 224445" src="https://github.com/user-attachments/assets/d2c29200-c52e-4fc7-b8db-aa5931ca40da" />
+
 
 **Your personal movie and TV show collection manager with AI-powered features**
 
