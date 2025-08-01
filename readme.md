@@ -6,9 +6,6 @@
 
 **Your personal movie and TV show collection manager with AI-powered features**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-4ecdc4?style=for-the-badge&logo=vercel)](https://your-moviemate-app.vercel.app)
-[![GitHub Issues](https://img.shields.io/badge/Report-Bug-ff6b6b?style=for-the-badge&logo=github)](https://github.com/yourusername/moviemate/issues)
-[![Feature Request](https://img.shields.io/badge/Request-Feature-45b7d1?style=for-the-badge&logo=github)](https://github.com/yourusername/moviemate/issues)
 
 </div>
 
