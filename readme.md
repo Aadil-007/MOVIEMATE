@@ -42,11 +42,13 @@
 ### Installation
 
 1. **Clone the repository**
+   
 '''bash 
 git clone https://github.com/yourusername/moviemate.git
 cd moviemate
 '''
-2. **Install dependencies**
+
+3. **Install dependencies**
 '''bash 
 npm install
 '''
@@ -54,8 +56,10 @@ npm install
 4. **Set up environment variables**
 
 Create a `.env.local` file in the `frontend` directory:
+'''bash
 REACT_APP_SUPABASE_URL=your-supabase-project-url
 REACT_APP_SUPABASE_ANON_KEY=your-supabase-anon-key
+'''
 
 4. **Set up the database**
 
@@ -106,16 +110,16 @@ CHECK (status IN ('wishlist', 'watching', 'completed'));
 
 -- Refresh schema cache
 NOTIFY pgrst, 'reload schema';
+
 '''
 
 
 5. **Start the development server**
-   '''bash
+   
+'''bash
 cd frontend
 npm start
 '''
-
-text
 
 6. **Open your browser**
 
