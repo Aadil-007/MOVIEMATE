@@ -125,3 +125,20 @@ npm start
 6. **Open your browser**
 
 Navigate to `http://localhost:3000` and start building your collection! 🎉
+
+
+Screenshots :
+web interface:
+<img width="1910" height="863" alt="image" src="https://github.com/user-attachments/assets/c48210b8-eddc-4027-93bc-dbe2ad479ebf" />
+
+<img width="1729" height="438" alt="image" src="https://github.com/user-attachments/assets/a2931da7-a8e3-4116-a59d-c543745ea64e" />
+
+<img width="1767" height="851" alt="image" src="https://github.com/user-attachments/assets/9f24f68d-9d74-40b4-81e7-5ecfc7482da0" />
+
+database table schema visualizer :
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/a4cd8789-af83-47df-8d81-952cad25c22b" />
+
+
+
+
+
